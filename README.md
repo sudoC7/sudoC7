@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tripoloski7682) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdullah-dugzaev-0b7818285/) 
 
-<div style="display:flex; align: right;">
+<div style="align: right;">
   <img src="https://visitcount.itsvg.in/api?id=sudoC7&label=%20My%20profils%20Views&color=1&icon=2&pretty=false" />
 </div>
 
