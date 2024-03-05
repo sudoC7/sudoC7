@@ -2,8 +2,8 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tripoloski7682) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdullah-dugzaev-0b7818285/) 
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=sudoC7&label=%20Profile%20Views&color=1&icon=9&pretty=false" />
+<a href="https://visitcount.itsvg.in" style="display:flex; align: right;">
+  <img src="https://visitcount.itsvg.in/api?id=sudoC7&label=%20My%20profils%20Views&color=1&icon=2&pretty=false" />
 </a>
 
 # 💻 Tech Stack:
